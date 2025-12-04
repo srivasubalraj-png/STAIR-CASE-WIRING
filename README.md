@@ -1,5 +1,5 @@
-### Name: thulasinathan S
-### Reg no: 212224080059
+### Name: BALAJI SHREE R
+### Reg no: 212222210002
 ## Aim:
 To verify the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
 
