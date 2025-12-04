@@ -1,48 +1,43 @@
-# STAIR-CASE-WIRING
+### Name: thulasinathan S
+### Reg no: 212224080059
+## Aim:
+To verify the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
 
-AIM
-To control the status of the given lamp by using two – way switches.
+
+##  Apparatus Required:
+Sl. No. Apparatus Specification Quantity
+1. Regulated Power Supply (RPS) (0-30)V 2 nos.
+2. Resistors 2.2 kΩ 1 no.
+           1 kΩ 1 no.
+            3.3 kΩ 1 no.
+3. Ammeter    (0-5)mA 2 nos.
+             (0-2)mA 1 no.
+4. Voltmeter (0-5)V 3 nos.
+5. Connecting wires few
+
+## Procedure:
+
+1. Make the connections as per the circuit diagram.
+2. Switch ON the power supply and apply voltage as per the circuit diagram.
+3. Measure the voltages and currents and note down the values in the tabular column
+4. Verify the theoretical and practical values.
+
+## Formula Used: 
+
+## Circuit Diagram :<img width="1366" height="599" alt="Circuit Construction Kit_ DC - Virtual Lab screenshot (1)" src="https://github.com/user-attachments/assets/8f2fd38d-b639-4e86-a88d-b0c5f17e3824" /> 
+<img width="1366" height="599" alt="Circuit Construction Kit_ DC - Virtual Lab screenshot (2)" src="https://github.com/user-attachments/assets/f8c0607d-69ee-412e-9e6b-2165860ec546" />
 
 
-APPARATUS REQUIRED:
-S.No Name of the apparatus Range / Type Quantity
-1 Incandescent Lamp 60W 1 No.
-2 Lamp Holder Pendent Type 1 No.
-3 SPDT Switch 230V,5A 2 Nos
-4 Wires 1/18” As per requirement
-5 P.V.C Pipe 1/4" As per requirement
-6 Wooden Board - 1 No.
-7 Round block - 1 No
 
-PROCEDURE
+## Output Calculation:
+<img width="1100" height="568" alt="image" src="https://github.com/user-attachments/assets/c2350c5a-75a7-45b8-9494-dd0aef19bf55" />
+<img width="1139" height="583" alt="image" src="https://github.com/user-attachments/assets/9287c6a8-904c-4e68-8645-6820604a6770" />
 
-• Place the accessories on the wiring board as per the circuit diagram.
-• Place the P.V.C pipe and insert two wires into the P.V.C pipe.
-• Take one wire connect one end to the phase side and other end to the middle
-point of SPDT switch 1
-• Upper point of SPDT switch 1 is connected to the lower point of SPDT
-switch2.
-• Lower point of SPDT 1 is connected to the upper point SPDT switch2.
-• Another wire taken through a P.V.C pipe and middle point of SPDT switch 2
-is connected to one end of the lamp holder.
-• Another end of lamp holder is connected to neutral line.
-• Screw the accessories on the board and switch on the supply.
-• Circuit is tested for all possible combination of switch positions
+## Output Tabulation:
+<img width="988" height="452" alt="image" src="https://github.com/user-attachments/assets/0c96559a-087d-41ef-8f7e-f6a29a9bf3d6" />
+<img width="1139" height="534" alt="image" src="https://github.com/user-attachments/assets/ec60a68a-dd3a-4df8-a618-20b61386ad08" />
 
-Circuit Diagram:
-Direct Connection:
-<img width="619" height="314" alt="image" src="https://github.com/user-attachments/assets/adcbab25-2530-4251-99b8-3fd0829f298d" />
 
-Tabulation:
-<img width="659" height="205" alt="image" src="https://github.com/user-attachments/assets/b9a577d8-4f3f-45a7-b9dc-0056a2fe904c" />
-
-Circuit Diagram:
-Cross Connection:
-<img width="617" height="308" alt="image" src="https://github.com/user-attachments/assets/cb78f403-981f-4287-ae31-999310d871dc" />
-
-Tabulation 2
-<img width="632" height="192" alt="image" src="https://github.com/user-attachments/assets/8e944ce6-90c1-4308-b06d-23fe8f9dfb36" />
-
-Result: 
-
+## Result:thus we have  verified  the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
+  
 
